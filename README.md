@@ -1,2 +1,14 @@
 # xingkongapp-cn-hub
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
